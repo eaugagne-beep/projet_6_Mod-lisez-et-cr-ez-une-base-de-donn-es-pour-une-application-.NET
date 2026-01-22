@@ -2,6 +2,7 @@
 
 ## Contenu du dépôt
 - Dump complet de la base SQL Server
+- Requêtes LINQPad
 
 ## Dump de la base
 Le dump complet est disponible dans le dossier `database_dump/` :
