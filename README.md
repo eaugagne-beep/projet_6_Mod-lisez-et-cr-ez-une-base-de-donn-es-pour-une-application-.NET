@@ -21,4 +21,4 @@ Les requêtes LinQPad sont disponible dans le dossier Linq_queries :
 Le diagramme ci-dessous présente la conception logique de la base de données NexaWorks
 (produits, versions, systèmes d’exploitation et tickets).
 
-![Modèle EA NexaWorks](diagrams/modele_EA_NexaWorks.png)
+![Modèle_EA_NexaWorks](diagrams/modele_EA_NexaWorks.png)
